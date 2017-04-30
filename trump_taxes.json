@@ -29,6 +29,30 @@ headline: "North Korea Claims Progress on Long-Range Goal With Missile Test",
           {
 headline: "5 Days After Failed Missile Test by North Korea, Another Failure",
           summary: "North Korea launched an intermediate-range ballistic missile on Thursday, but the test ended in failure, the United States military said."
+          children: [
+                    {
+                    headline: "New Test of North Korean Missile Fails, South Says"
+                    summary: "North Korea launched an intermediate-range ballistic missile, but the test failed as the projectile exploded shortly after liftoff, the South Korean military said on Sunday."
+                    children: [
+                    {
+                              headline: "North Korea’s Successful Missile Test Shows Program’s Progress, Analysts Say"
+                              summary: "North Korea said that the missile accurately landed in targeted waters 250 miles away after reaching an altitude of 878 miles, and that it had fired the missile at a sharper angle to demonstrate its potential to reach the estimated full range of more than 2,000 miles — far enough to reach American military bases in the Pacific — without actually covering that distance."
+                              children: [
+                    {
+                                        headline: "As North Korea’s Nuclear Program Advances, U.S. Strategy Is Tested"
+                                        summary: "Victor Cha, who was a senior official on President George W. Bush’s National Security Council, said American policy had been \“concerned about not overreacting to every North Korean provocation, and that made sense when their capabilities were not all that formidable.\”"
+                                        children: [
+                    {
+                                                  headline: "North Korean Leader Tells Congress His Nuclear Program Brings ‘Dignity’"
+                                                  summary: "North Korea’s leader, Kim Jong-un, said Friday that his nuclear weapons and missile programs brought his country \“dignity and national power,\” as he convened the first congress of his Workers’ Party in 36 years."
+                    }
+                    ]
+                    }
+                    ]
+                    }
+                    ]
+          }
+          ]
           }
           ]
           },
