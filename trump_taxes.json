@@ -1,10 +1,10 @@
 {
-headline: "Trump could save money on taxes with his plan",
-            summary: "Lorem ipsum",
-            children: [
-            {
-headline: "Trump releases tax plan",
-          summary: "Lorem ipsum",
-            }
-          ],
-},
+	headline: "Trump could save money on taxes with his plan",
+	summary: "Lorem ipsum",
+	children: [
+		{
+			headline: "Trump releases tax plan",
+			summary: "Lorem ipsum",
+		},
+  ],
+}
